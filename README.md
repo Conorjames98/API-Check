@@ -1,4 +1,4 @@
 # API-Check
 
 
-## A simple way to check the health of an API endpoint used.
+## A simple way to check the health of an API endpoint.
